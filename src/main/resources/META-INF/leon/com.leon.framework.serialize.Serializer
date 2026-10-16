@@ -1,0 +1,2 @@
+java=com.leon.framework.serialize.JavaSerializer
+kryo=com.leon.framework.serialize.KryoSerializer
